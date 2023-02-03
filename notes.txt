@@ -1,0 +1,3 @@
+tsc main.ts
+tsc main.ts -w
+tsc --init: create tsconfig.json file
